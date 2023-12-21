@@ -1,7 +1,7 @@
 # Impledge-Code
 # Solution-Word-Composition-Problem-Impledge-Technologies
 Overview : 
-This is a program that actually finds the longest and second longest concatenated words. And the time required to compile this. A compounded word is one that can be constructed by combining (concatenating) shorter words also found in the same file. 
+This is a program that finds the longest and second-longest concatenated words. And the time required to compile this. A compounded word can be constructed by combining shorter words also found in the same file.
 
 Problem: Develop a program to read two files containing word lists sorted alphabetically. 
 The program should identify and display the longest and second longest compounded words found in the files. Also, it should show the time taken to process the files. 
